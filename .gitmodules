@@ -1,3 +1,9 @@
 [submodule "RetailHell"]
 	path = RetailHell
 	url = https://github.com/punk0604/RetailHell
+[submodule "ciniegenie"]
+	path = ciniegenie
+	url = https://gitlab.com/cs-department-ecu/csci-4230-spring-2025/cinegenie/ciniegenie.git
+[submodule "kooky-kreator"]
+	path = kooky-kreator
+	url = https://gitlab.com/cs-department-ecu/csci-3030-softeware-engineering-i-fall-2024/kooky-kreator/kooky-kreator.git
